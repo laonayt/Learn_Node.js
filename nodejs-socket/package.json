@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dgram": "^1.0.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "net": "^1.0.2",
     "stickpackage": "^3.0.5"
   }
